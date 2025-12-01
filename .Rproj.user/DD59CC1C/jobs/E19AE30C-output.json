@@ -1,0 +1,6 @@
+[1,"==> quarto preview defensaST.qmd --to revealjs --presentation --no-watch-inputs --no-browse\n\n"]
+[1,"\r\n\r\nprocessing file: defensaST.qmd\r\n"]
+[1,"\r  |                                                          \r  |                                                    |   0%\r  |                                                          \r  |..........                                          |  20%                  \r  |                                                          \r  |.....................                               |  40% [unnamed-chunk-1]"]
+[1,"\r\n\r\n"]
+[1,"Error in `readChar()`:\r\n! no se puede abrir la conexión\r\nBacktrace:\r\n    ▆\r\n 1. └─base::load(\"elsoc.RData\")\r\n 2.   └─base::readChar(con, 5L, useBytes = TRUE)\r\n"]
+[1,"\r\r\nQuitting from defensaST.qmd:132-148 [unnamed-chunk-1]\r\n                                                                                                            \r\nEjecución interrumpida\r\n"]
